@@ -3,7 +3,7 @@ import styles from "./Footer.module.css";
 
 import './FooterNew.js'
 //images
-import flag from "../../commonResource/images/icons/16.png";
+import flag from "../../assets/images/icons/16.png";
 
 function FooterNew() {
   return (

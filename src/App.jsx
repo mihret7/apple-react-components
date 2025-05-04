@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import './App.css'
 
-import './commonResource/js/custom.js'
+import './assets/js/custom.js'
 
 // importing components 
 import Alert from './Components/Alert/Alert.jsx';

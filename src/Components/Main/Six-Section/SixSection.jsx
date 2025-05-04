@@ -2,7 +2,7 @@ import React from 'react'
 
 
 //images
-import arcade from '../../../commonResource/images/icons/arcade.png'
+import arcade from '../../../assets/images/icons/arcade.png'
 
 function SixSection() {
   return (

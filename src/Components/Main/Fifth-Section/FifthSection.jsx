@@ -1,9 +1,9 @@
 import React from 'react'
 
 //images
-import appletv from '../../../commonResource/images/icons/apple-tv-logo.png';
-import banker from '../../../commonResource/images/home/banker.png';
-import series5 from '../../../commonResource/images/icons/watch-series5-logo.png';
+import appletv from '../../../assets/images/icons/apple-tv-logo.png';
+import banker from '../../../assets/images/home/banker.png';
+import series5 from '../../../assets/images/icons/watch-series5-logo.png';
 
 function FifthSection() {
   return (

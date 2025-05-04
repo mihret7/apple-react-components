@@ -4,7 +4,7 @@ import './Footer.js'
 
 
 //images
-import flag from "../../commonResource/images/icons/16.png";
+import flag from "../../assets/images/icons/16.png";
 
 function Footer() {
   return (
@@ -148,7 +148,7 @@ export default Footer
 
 
 // import styles from './Footer.module.css';
-// import flag from "../../commonResource/images/icons/16.png";
+// import flag from "../../assets/images/icons/16.png";
 
 
 // function Footer() {
